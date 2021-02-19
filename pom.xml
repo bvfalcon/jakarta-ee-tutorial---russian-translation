@@ -71,6 +71,7 @@
                                 <idprefix />
                                 <idseparator>-</idseparator>
                                 <docinfo1>true</docinfo1>
+                                <last-update-label>Последнее обновление: </last-update-label>
                                 <imagesDir>images</imagesDir>
                             </attributes>
                         </configuration>
