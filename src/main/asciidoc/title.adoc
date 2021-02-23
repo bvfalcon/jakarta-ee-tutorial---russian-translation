@@ -30,4 +30,4 @@ trademark of The Open Group.
 
 Оригинальный перевод: https://www.bychkov.name/Jakarta%20EE%20Tutorial.pdf[Jakarta EE Tutorial - русскоязычная версия].
 
-mailto:github@bychkov.name[Связаться] с автором перевода.
+mailto:github@bychkov.name[Связаться] с автором перевода: mailto:github@bychkov.name[github@bychkov.name]
