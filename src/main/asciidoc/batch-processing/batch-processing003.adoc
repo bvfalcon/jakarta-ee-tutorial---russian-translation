@@ -1,5 +1,3 @@
-[[BCGHBJIG]][[simple-use-case]]
-
 == Simple Use Case
 
 This section demonstrates how to define a simple job using the Job
@@ -13,8 +11,8 @@ follows:
 [source,xml]
 ----
 <?xml version="1.0" encoding="UTF-8"?>
-<job id="simplejob" xmlns="http://xmlns.jcp.org/xml/ns/javaee" 
-                    version="1.0">
+<job id="simplejob" xmlns="https://jakarta.ee/xml/ns/jakartaee" 
+                    version="2.0">
   <properties>
     <property name="input_file" value="input.txt"/>
     <property name="output_file" value="output.txt"/>
@@ -32,8 +30,6 @@ follows:
   </step>
 </job>
 ----
-
-[[sthref268]][[chunk-step]]
 
 === Chunk Step
 
@@ -59,7 +55,7 @@ items are custom Java types and the input source can be a database):
 ----
 @Dependent
 @Named("MyReader")
-public class MyReader implements javax.batch.api.chunk.ItemReader {
+public class MyReader implements jakarta.batch.api.chunk.ItemReader {
     private MyCheckpoint checkpoint;
     private BufferedReader breader;
     @Inject
@@ -101,7 +97,7 @@ transform them into custom output Java types:
 ----
 @Dependent
 @Named("MyProcessor")
-public class MyProcessor implements javax.batch.api.chunk.ItemProcessor {
+public class MyProcessor implements jakarta.batch.api.chunk.ItemProcessor {
     public MyProcessor() {}
 
     @Override
@@ -112,17 +108,9 @@ public class MyProcessor implements javax.batch.api.chunk.ItemProcessor {
 }
 ----
 
-
-[width="100%",cols="100%",]
-|=======================================================================
-a|
-Note:
-
+[NOTE]
 The batch processing API does not support generics. In most cases, you
 need to cast items to their specific type before processing them.
-
-|=======================================================================
-
 
 The item writer writes the processed items to the output file. It
 overwrites the output file if no checkpoint is provided; otherwise, it
@@ -132,7 +120,7 @@ resumes writing at the end of the file. Items are written in chunks:
 ----
 @Dependent
 @Named("MyWriter")
-public class MyWriter implements javax.batch.api.chunk.ItemWriter {
+public class MyWriter implements jakarta.batch.api.chunk.ItemWriter {
     private BufferedWriter bwriter;
     @Inject
     private JobContext jobCtx;
@@ -157,10 +145,9 @@ public class MyWriter implements javax.batch.api.chunk.ItemWriter {
     @Override
     public Serializable checkpointInfo() throws Exception {
         return new MyCheckpoint();
+    }
 }
 ----
-
-[[sthref269]][[task-step]]
 
 === Task Step
 
@@ -172,7 +159,7 @@ processing programming model:
 ----
 @Dependent
 @Named("MyBatchlet")
-public class MyBatchlet implements javax.batch.api.chunk.Batchlet {
+public class MyBatchlet implements jakarta.batch.api.chunk.Batchlet {
     @Inject
     private JobContext jobCtx;
     
@@ -185,5 +172,3 @@ public class MyBatchlet implements javax.batch.api.chunk.Batchlet {
     }
 }
 ----
-
-
