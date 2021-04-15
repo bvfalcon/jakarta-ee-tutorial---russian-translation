@@ -80,7 +80,7 @@
                                 <imagesdir>images</imagesdir>
                                 <source-highlighter>coderay</source-highlighter>
                             </attributes>
-                            <embedAssets>true</embedAssets>
+                            <embedAssets>false</embedAssets>
                         </configuration>
                     </execution>
                 </executions>
