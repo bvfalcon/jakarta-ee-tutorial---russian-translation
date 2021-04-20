@@ -41,7 +41,7 @@ In particular, this chapter assumes that you are familiar with the information i
 
 * xref:getting-started-with-web-applications[xrefstyle=full]
 
-* xref:jakarta-faces-technology-2[xrefstyle=full]
+* xref:jakarta-faces-technology[xrefstyle=full]
 
 * xref:jakarta-servlet-technology-2[xrefstyle=full]
 
