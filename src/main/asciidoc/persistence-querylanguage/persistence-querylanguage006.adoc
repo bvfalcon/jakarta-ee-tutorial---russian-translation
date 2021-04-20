@@ -1171,7 +1171,7 @@ If a query returns a `java.util.Collection`, which allows duplicates, you must s
 Constructor expressions allow you to return Java instances that store a query result element instead of an `Object[]`.
 
 The following query creates a `CustomerDetail` instance per `Customer` matching the `WHERE` clause.
-A `CustomerDetail` stores the customer name and customer's country name.So the query returns a `List` of `CustomerDetail` instances:
+A `CustomerDetail` stores the customer name and customer's country name. So the query returns a `List` of `CustomerDetail` instances:
 
 [source,sql]
 ----

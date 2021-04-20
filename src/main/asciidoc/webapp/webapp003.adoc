@@ -71,7 +71,7 @@ The Submit `commandButton` element specifies the action as `response`, meaning t
 
 . Double-click the `response.xhtml` file to view it.
 +
-The response page appears.Even simpler than the greeting page, the response page contains a graphic image, a header that displays the expression provided by the managed bean, and a single button whose `action` element transfers you back to the `index.xhtml` page:
+The response page appears. Even simpler than the greeting page, the response page contains a graphic image, a header that displays the expression provided by the managed bean, and a single button whose `action` element transfers you back to the `index.xhtml` page:
 +
 [source,xml]
 ----

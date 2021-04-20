@@ -9,7 +9,7 @@ The most reliable way to produce a message is to send a `PERSISTENT` message, an
 Jakarta Messaging messages are `PERSISTENT` by default; `PERSISTENT` messages will not be lost in the event of Messaging provider failure.
 For details, see <<specifying-message-persistence>>.
 
-Transactions allow multiple messages to be sent or received in an atomic operation.In the Jakarta EE platform they also allow message sends and receives to be combined with database reads and writes in an atomic transaction.
+Transactions allow multiple messages to be sent or received in an atomic operation. In the Jakarta EE platform they also allow message sends and receives to be combined with database reads and writes in an atomic transaction.
 A transaction is a unit of work into which you can group a series of operations, such as message sends and receives, so that the operations either all succeed or all fail.
 For details, see <<using-jakarta-messaging-local-transactions>>.
 
