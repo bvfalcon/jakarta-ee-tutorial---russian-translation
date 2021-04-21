@@ -3,7 +3,7 @@
 <!-- Generato da Microsoft Visio 11.0, SVG Export, v1.0 jakartaeett_dt_027.svg Pagina 1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.98063in"
 		height="1.83718in" viewBox="0 0 358.605 132.277" xml:space="preserve" color-interpolation-filters="sRGB" class="st9"
-		xmlns:xlink="http://www.w3.org/1999/xlink">
+		xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="MBSAAvail" v:prompt="" v:val="VT0(2):26"/>
@@ -17,7 +17,7 @@
 		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#ebf1de;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
 		.st5 {fill:#fdefe3;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st7 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
@@ -38,35 +38,17 @@
 			<title>Foglio.35</title>
 			<rect x="0" y="109.599" width="104.882" height="22.6772" rx="8.50394" ry="8.50394" class="st2"/>
 		</g>
-		<g id="shape15-5" v:mID="15" v:groupContext="shape" transform="translate(0.72,-86.2023)">
-			<title>Foglio.15</title>
-			<desc>Administrative Tool</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="42.5197" cy="120.938" width="85.04" height="22.6772"/>
-			<rect x="0" y="109.599" width="85.0394" height="22.6772" class="st3"/>
-			<text x="8.51" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Administrative Tool</text>		</g>
+		<foreignObject x="7" y="17" width="95" height="60"><xhtml:p class="st4">Administrative Tool</xhtml:p></foreignObject>
 		<g id="shape5-8" v:mID="5" v:groupContext="shape" transform="translate(3.55465,-25.2574)">
 			<title>Foglio.5</title>
 			<rect x="0" y="109.599" width="104.882" height="22.6772" rx="8.50394" ry="8.50394" class="st2"/>
 		</g>
-		<g id="shape6-10" v:mID="6" v:groupContext="shape" transform="translate(6.38929,-25.2574)">
-			<title>Foglio.6</title>
-			<desc>JMS Client</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.3465" cy="120.938" width="56.7" height="22.6772"/>
-			<rect x="0" y="109.599" width="56.6929" height="22.6772" class="st3"/>
-			<text x="9.01" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>JMS Client</text>		</g>
+		<foreignObject x="13" y="78" width="90" height="60"><xhtml:p class="st4">JMS Client</xhtml:p></foreignObject>
 		<g id="shape9-13" v:mID="9" v:groupContext="shape" transform="translate(261.507,-72.0291)">
 			<title>Foglio.9</title>
 			<rect x="0" y="78.4183" width="96.378" height="53.8583" class="st5"/>
 		</g>
-		<g id="shape10-15" v:mID="10" v:groupContext="shape" transform="translate(258.673,-103.21)">
-			<title>Foglio.10</title>
-			<desc>JNDI Namespace</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.2677" cy="120.938" width="76.54" height="22.6772"/>
-			<rect x="0" y="109.599" width="76.5354" height="22.6772" class="st3"/>
-			<text x="6.92" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>JNDI Namespace</text>		</g>
+		<foreignObject x="264" y="0" width="88" height="60"><xhtml:p class="st4">JNDI Namespace</xhtml:p></foreignObject>
 		<g id="shape13-18" v:mID="13" v:groupContext="shape" transform="translate(148.122,-97.5409) scale(-1,1)">
 			<title>Foglio.13</title>
 			<path d="M0 132.28 L39.69 132.28" class="st6"/>
@@ -79,35 +61,17 @@
 			<title>Foglio.1</title>
 			<path d="M0 132.28 L78.52 132.28" class="st6"/>
 		</g>
-		<g id="shape2-26" v:mID="2" v:groupContext="shape" transform="translate(145.287,-86.2023)">
-			<title>Foglio.2</title>
-			<desc>Bind</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="15.5906" cy="120.938" width="31.19" height="22.6772"/>
-			<rect x="0" y="109.599" width="31.1811" height="22.6772" class="st3"/>
-			<text x="7.58" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Bind</text>		</g>
+		<foreignObject x="151" y="17" width="31" height="60"><xhtml:p class="st4">Bind</xhtml:p></foreignObject>
 		<g id="shape3-29" v:mID="3" v:groupContext="shape" transform="translate(267.177,-74.8637)">
 			<title>Foglio.3</title>
 			<ellipse cx="14.1732" cy="118.103" rx="14.1732" ry="14.1732" class="st8"/>
 		</g>
-		<g id="shape4-31" v:mID="4" v:groupContext="shape" transform="translate(264.342,-77.6983)">
-			<title>Foglio.4</title>
-			<desc>CF</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="15.5906" cy="120.938" width="31.19" height="22.6772"/>
-			<rect x="0" y="109.599" width="31.1811" height="22.6772" class="st3"/>
-			<text x="10.26" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>CF</text>		</g>
+		<foreignObject x="269" y="26" width="23" height="60"><xhtml:p class="st4">CF</xhtml:p></foreignObject>
 		<g id="shape7-34" v:mID="7" v:groupContext="shape" transform="translate(323.87,-74.8637)">
 			<title>Foglio.7</title>
 			<ellipse cx="14.1732" cy="118.103" rx="14.1732" ry="14.1732" class="st8"/>
 		</g>
-		<g id="shape8-36" v:mID="8" v:groupContext="shape" transform="translate(321.035,-77.6983)">
-			<title>Foglio.8</title>
-			<desc>D</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="15.5906" cy="120.938" width="31.19" height="22.6772"/>
-			<rect x="0" y="109.599" width="31.1811" height="22.6772" class="st3"/>
-			<text x="12.7" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>D</text>		</g>
+		<foreignObject x="325" y="26" width="25" height="60"><xhtml:p class="st4">D</xhtml:p></foreignObject>
 		<g id="shape11-39" v:mID="11" v:groupContext="shape" transform="translate(254.619,-13.8231)">
 			<title>Foglio.11</title>
 			<rect v:rectContext="foreign" x="0" y="87.801" width="87.4772" height="44.4756" class="st3"/>
@@ -263,20 +227,8 @@
 			<title>Foglio.17</title>
 			<path d="M0 132.28 L27.5 132.28" class="st6"/>
 		</g>
-		<g id="shape18-50" v:mID="18" v:groupContext="shape" transform="translate(126.153,-18.1708)">
-			<title>Foglio.18</title>
-			<desc>Logical Connection</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.9764" cy="120.938" width="77.96" height="22.6772"/>
-			<rect x="0" y="109.599" width="77.9528" height="22.6772" class="st3"/>
-			<text x="4.95" y="123.34" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Logical Connection</text>		</g>
-		<g id="shape37-53" v:mID="37" v:groupContext="shape" transform="translate(257.255,-0.72)">
-			<title>Foglio.37</title>
-			<desc>JMS Provider</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.9764" cy="125.282" width="77.96" height="13.989"/>
-			<rect x="0" y="118.288" width="77.9528" height="13.989" class="st3"/>
-			<text x="14.97" y="127.68" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>JMS Provider</text>		</g>
+		<foreignObject x="129" y="85" width="95" height="60"><xhtml:p class="st4">Logical Connection</xhtml:p></foreignObject>
+		<foreignObject x="260" y="107" width="80" height="60"><xhtml:p class="st4">JMS Provider</xhtml:p></foreignObject>
 		<g id="shape38-56" v:mID="38" v:groupContext="shape" transform="translate(261.507,-86.2023) scale(-1,1)">
 			<title>Foglio.38</title>
 			<path d="M0 132.28 L79.37 132.28" class="st6"/>
@@ -297,12 +249,6 @@
 			<title>Foglio.42</title>
 			<path d="M0 132.28 L72.85 132.28" class="st6"/>
 		</g>
-		<g id="shape43-70" v:mID="43" v:groupContext="shape" transform="translate(132.531,-57.6007)">
-			<title>Foglio.43</title>
-			<desc>Inject Resource</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.9764" cy="123.645" width="77.96" height="17.263"/>
-			<rect x="0" y="115.014" width="77.9528" height="17.263" class="st3"/>
-			<text x="11.19" y="126.05" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Inject Resource</text>		</g>
+		<foreignObject x="142" y="48" width="78" height="60"><xhtml:p class="st4">Inject Resource</xhtml:p></foreignObject>
 	</g>
 </svg>
