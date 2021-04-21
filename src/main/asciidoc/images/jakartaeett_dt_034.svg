@@ -2,7 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <!-- Generato da Microsoft Visio 11.0, SVG Export, v1.0 jakartaeett_dt_034.svg Pagina 1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.66567in"
-		height="3.95701in" viewBox="0 0 335.928 284.905" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+		height="3.95701in" viewBox="0 0 335.928 284.905" xml:space="preserve" color-interpolation-filters="sRGB" class="st12"
+		xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="MBSAAvail" v:prompt="" v:val="VT0(2):26"/>
@@ -16,12 +17,12 @@
 		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#c8d6e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
 		.st5 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st7 {font-size:1em}
 		.st8 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st9 {fill:#000000;font-family:Arial;font-size:0.666664em;font-weight:bold}
+		.st9 {fill:#000000;font-family:Arial;font-size:0.666664em;font-weight:bold;text-align:center}
 		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st11 {fill:#7395bf;stroke:none;stroke-linecap:butt;stroke-width:0.75}
 		.st12 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
@@ -41,13 +42,7 @@
 			<title>Foglio.9</title>
 			<rect x="0" y="262.227" width="46.7717" height="22.6772" class="st2"/>
 		</g>
-		<g id="shape1-5" v:mID="1" v:groupContext="shape" transform="translate(3.62924,-162.295)">
-			<title>Foglio.1</title>
-			<desc>Retailer</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="18.5528" cy="273.566" width="37.11" height="22.6772"/>
-			<rect x="0" y="262.227" width="37.1055" height="22.6772" class="st3"/>
-			<text x="4.77" y="275.97" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Retailer</text>		</g>
+		<foreignObject x="6" y="94" width="37" height="60"><xhtml:p class="st4">Retailer</xhtml:p></foreignObject>
 		<g id="shape6-8" v:mID="6" v:groupContext="shape" transform="translate(341.184,54.5783) rotate(90) scale(-1,1)">
 			<title>Foglio.6</title>
 			<path d="M5.67 284.9 L0 284.9 L2.83 275.27 L5.67 284.9 Z" class="st5"/>
@@ -60,71 +55,25 @@
 			<title>Foglio.8</title>
 			<path d="M0 284.9 L48.19 284.9" class="st6"/>
 		</g>
-		<g id="shape57-16" v:mID="57" v:groupContext="shape" transform="translate(53.7243,-261.507)">
-			<title>Foglio.57</title>
-			<desc>Vendor OrderQ</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="23.5311" cy="275.607" width="47.07" height="18.5953"/>
-			<rect x="0" y="266.309" width="47.0622" height="18.5953" class="st3"/>
-			<text x="10.63" y="273.21" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Vendor<v:newlineChar/><tspan
-						x="10.2" dy="1.2em" class="st7">OrderQ</tspan></text>		</g>
-		<g id="shape17-20" v:mID="17" v:groupContext="shape" transform="translate(175.905,-261.507)">
-			<title>Foglio.17</title>
-			<desc>Supplier Order Topic</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="27.7831" cy="275.607" width="55.57" height="18.5953"/>
-			<rect x="0" y="266.309" width="55.5661" height="18.5953" class="st3"/>
-			<text x="13.11" y="273.21" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Supplier<v:newlineChar/><tspan
-						x="6.67" dy="1.2em" class="st7">Order Topic</tspan></text>		</g>
+		<foreignObject x="62" y="-8" width="47" height="60"><xhtml:p class="st4">Vendor OrderQ</xhtml:p></foreignObject>
+		<foreignObject x="187" y="-8" width="56" height="60"><xhtml:p class="st4">Supplier Order Topic</xhtml:p></foreignObject>
 		<g id="shape18-24" v:mID="18" v:groupContext="shape" transform="translate(270.011,-221.822)">
 			<title>Foglio.18</title>
 			<rect x="0" y="262.227" width="56.6929" height="22.6772" class="st2"/>
 		</g>
-		<g id="shape19-26" v:mID="19" v:groupContext="shape" transform="translate(270.011,-221.822)">
-			<title>Foglio.19</title>
-			<desc>Supplier 1</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="24.0945" cy="273.566" width="48.19" height="22.6772"/>
-			<rect x="0" y="262.227" width="48.189" height="22.6772" class="st3"/>
-			<text x="6.08" y="275.97" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Supplier 1</text>		</g>
+		<foreignObject x="272" y="34" width="50" height="60"><xhtml:p class="st4">Supplier 1</xhtml:p></foreignObject>
 		<g id="shape20-29" v:mID="20" v:groupContext="shape" transform="translate(127.57,-162.295)">
 			<title>Foglio.20</title>
 			<rect x="0" y="262.227" width="46.7717" height="22.6772" class="st2"/>
 		</g>
-		<g id="shape21-31" v:mID="21" v:groupContext="shape" transform="translate(127.57,-162.295)">
-			<title>Foglio.21</title>
-			<desc>Vendor</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="18.5528" cy="273.566" width="37.11" height="22.6772"/>
-			<rect x="0" y="262.227" width="37.1055" height="22.6772" class="st3"/>
-			<text x="5.65" y="275.97" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Vendor</text>		</g>
-		<g id="shape32-34" v:mID="32" v:groupContext="shape" transform="translate(54.5783,-69.772)">
-			<title>Foglio.32</title>
-			<desc>Retailer ConfirmQ</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="23.5311" cy="275.607" width="47.07" height="18.5953"/>
-			<rect x="0" y="266.309" width="47.0622" height="18.5953" class="st3"/>
-			<text x="9.75" y="273.21" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Retailer<v:newlineChar/><tspan
-						x="6.42" dy="1.2em" class="st7">ConfirmQ</tspan></text>		</g>
-		<g id="shape44-38" v:mID="44" v:groupContext="shape" transform="translate(173.633,-69.772)">
-			<title>Foglio.44</title>
-			<desc>Vendor ConfirmQ</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="27.7831" cy="275.607" width="55.57" height="18.5953"/>
-			<rect x="0" y="266.309" width="55.5661" height="18.5953" class="st3"/>
-			<text x="14.88" y="273.21" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Vendor<v:newlineChar/><tspan
-						x="10.67" dy="1.2em" class="st7">ConfirmQ</tspan></text>		</g>
+		<foreignObject x="131" y="94" width="37" height="60"><xhtml:p class="st4">Vendor</xhtml:p></foreignObject>
+		<foreignObject x="62" y="183" width="47" height="60"><xhtml:p class="st4">Retailer ConfirmQ</xhtml:p></foreignObject>
+		<foreignObject x="187" y="183" width="56" height="60"><xhtml:p class="st4">Vendor ConfirmQ</xhtml:p></foreignObject>
 		<g id="shape45-42" v:mID="45" v:groupContext="shape" transform="translate(270.011,-101.747)">
 			<title>Foglio.45</title>
 			<rect x="0" y="262.227" width="56.6929" height="22.6772" class="st2"/>
 		</g>
-		<g id="shape46-44" v:mID="46" v:groupContext="shape" transform="translate(270.011,-101.747)">
-			<title>Foglio.46</title>
-			<desc>Supplier 1</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="24.0945" cy="273.566" width="48.19" height="22.6772"/>
-			<rect x="0" y="262.227" width="48.189" height="22.6772" class="st3"/>
-			<text x="6.08" y="275.97" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Supplier 1</text>		</g>
+		<foreignObject x="272" y="154" width="50" height="60"><xhtml:p class="st4">Supplier 1</xhtml:p></foreignObject>
 		<g id="shape66-47" v:mID="66" v:groupContext="shape" transform="translate(64.6169,454.986) rotate(178.843)">
 			<title>Foglio.66</title>
 			<path d="M0 284.9 L32.64 284.9" class="st6"/>
@@ -145,24 +94,12 @@
 			<title>Foglio.73</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape74-59" v:mID="74" v:groupContext="shape" transform="translate(32.2154,-227.822)">
-			<title>Foglio.74</title>
-			<desc>1</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="282.81" class="st9" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>1</text>		</g>
+		<foreignObject x="34" y="35" width="9" height="60"><xhtml:p class="st9">1</xhtml:p></foreignObject>
 		<g id="shape75-62" v:mID="75" v:groupContext="shape" transform="translate(33.273,-108.271)">
 			<title>Foglio.75</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape76-64" v:mID="76" v:groupContext="shape" transform="translate(31.6176,-108.678)">
-			<title>Foglio.76</title>
-			<desc>6</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="282.81" class="st9" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>6</text>		</g>
+		<foreignObject x="34" y="154" width="9" height="60"><xhtml:p class="st9">6</xhtml:p></foreignObject>
 		<g id="shape77-67" v:mID="77" v:groupContext="shape" transform="translate(465.908,54.6608) rotate(90) scale(-1,1)">
 			<title>Foglio.77</title>
 			<path d="M5.67 284.9 L0 284.9 L2.83 275.27 L5.67 284.9 Z" class="st5"/>
@@ -187,24 +124,12 @@
 			<title>Foglio.83</title>
 			<ellipse cx="7.93701" cy="276.769" rx="7.93701" ry="8.13543" class="st8"/>
 		</g>
-		<g id="shape84-83" v:mID="84" v:groupContext="shape" transform="translate(154.956,-228.418)">
-			<title>Foglio.84</title>
-			<desc>2b</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="9.05544" cy="280.407" width="18.12" height="8.99455"/>
-			<rect x="0" y="275.91" width="18.1109" height="8.99455" class="st3"/>
-			<text x="4" y="282.81" class="st9" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>2b</text>		</g>
+		<foreignObject x="157" y="34" width="18" height="60"><xhtml:p class="st9">2b</xhtml:p></foreignObject>
 		<g id="shape85-86" v:mID="85" v:groupContext="shape" transform="translate(157.997,-108.189)">
 			<title>Foglio.85</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape86-88" v:mID="86" v:groupContext="shape" transform="translate(156.342,-108.595)">
-			<title>Foglio.86</title>
-			<desc>4</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="282.81" class="st9" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>4</text>		</g>
+		<foreignObject x="158" y="154" width="9" height="60"><xhtml:p class="st9">4</xhtml:p></foreignObject>
 		<g id="shape87-91" v:mID="87" v:groupContext="shape" transform="translate(-172.5,173.633) rotate(-90)">
 			<title>Foglio.87</title>
 			<path d="M5.67 284.9 L0 284.9 L2.83 275.27 L5.67 284.9 Z" class="st5"/>
@@ -229,26 +154,12 @@
 			<title>Foglio.92</title>
 			<ellipse cx="7.93701" cy="276.769" rx="7.93701" ry="8.13543" class="st8"/>
 		</g>
-		<g id="shape93-107" v:mID="93" v:groupContext="shape" transform="translate(137.886,-228.661) scale(-1,1)">
-			<title>Foglio.93</title>
-			<desc>2a</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="9.05544" cy="280.407" width="18.12" height="8.99455"/>
-			<rect x="0" y="275.91" width="18.1109" height="8.99455" class="st3"/>
-			<text x="-14.11" y="282.81" transform="scale(-1,1)" class="st9" v:langID="1040"><v:paragraph v:spBefore="5"
-						v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>2a</text>		</g>
+		<foreignObject x="122" y="34" width="18" height="60"><xhtml:p class="st9">2a</xhtml:p></foreignObject>
 		<g id="shape94-110" v:mID="94" v:groupContext="shape" transform="translate(135.411,-108.106) scale(-1,1)">
 			<title>Foglio.94</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape95-112" v:mID="95" v:groupContext="shape" transform="translate(131.359,-108.513) scale(-1,1)">
-			<title>Foglio.95</title>
-			<desc>5</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="-4.99" y="282.81" transform="scale(-1,1)" class="st9" v:langID="1040"><v:paragraph v:spBefore="5"
-						v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>5</text>		</g>
+		<foreignObject x="124" y="154" width="9" height="60"><xhtml:p class="st9">5</xhtml:p></foreignObject>
 		<g id="shape96-115" v:mID="96" v:groupContext="shape" transform="translate(103.606,-229.372)">
 			<title>Foglio.96</title>
 			<ellipse cx="3.69641" cy="281.116" rx="3.69641" ry="3.78882" class="st5"/>
@@ -265,13 +176,7 @@
 			<title>Foglio.62</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape63-124" v:mID="63" v:groupContext="shape" transform="translate(247.334,-227.568)">
-			<title>Foglio.63</title>
-			<desc>3</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="282.81" class="st9" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>3</text>		</g>
+		<foreignObject x="249" y="35" width="9" height="60"><xhtml:p class="st9">3</xhtml:p></foreignObject>
 		<g id="shape97-127" v:mID="97" v:groupContext="shape" transform="translate(492.849,77.0545) rotate(90)">
 			<title>Foglio.97</title>
 			<path d="M0 284.9 L20.04 284.9" class="st6"/>
@@ -292,19 +197,12 @@
 			<title>Foglio.100</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape101-140" v:mID="101" v:groupContext="shape" transform="translate(247.932,-182.616)">
-			<title>Foglio.101</title>
-			<desc>3</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="282.81" class="st9" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>3</text>		</g>
+		<foreignObject x="250" y="80" width="9" height="60"><xhtml:p class="st9">3</xhtml:p></foreignObject>
 		<g id="shape104-143" v:mID="104" v:groupContext="shape" transform="translate(493.407,146.905) rotate(90) scale(-1,1)">
 			<title>Foglio.104</title>
 			<path d="M0 284.9 L20.04 284.9" class="st6"/>
 		</g>
-		<g id="shape106-146" v:mID="106" v:groupContext="shape"
-				transform="translate(208.464,411.766) rotate(0.00788576) scale(1,-1)">
+		<g id="shape106-146" v:mID="106" v:groupContext="shape" transform="translate(208.464,411.766) rotate(0.00788576) scale(1,-1)">
 			<title>Foglio.106</title>
 			<path d="M0 284.9 L84.19 284.9" class="st6"/>
 		</g>
@@ -316,14 +214,7 @@
 			<title>Foglio.108</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape109-154" v:mID="109" v:groupContext="shape" transform="translate(257.255,-153.3) scale(-1,1)">
-			<title>Foglio.109</title>
-			<desc>3</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="-4.99" y="282.81" transform="scale(-1,1)" class="st9" v:langID="1040"><v:paragraph v:spBefore="5"
-						v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>3</text>		</g>
+		<foreignObject x="250" y="110" width="9" height="60"><xhtml:p class="st9">3</xhtml:p></foreignObject>
 		<g id="shape105-157" v:mID="105" v:groupContext="shape" transform="translate(205.665,423.955) scale(1,-1)">
 			<title>Foglio.105</title>
 			<path d="M5.67 284.9 L0 284.9 L2.83 275.27 L5.67 284.9 Z" class="st5"/>
@@ -344,14 +235,7 @@
 			<title>Foglio.113</title>
 			<ellipse cx="5.69203" cy="279.07" rx="5.69203" ry="5.83433" class="st8"/>
 		</g>
-		<g id="shape114-169" v:mID="114" v:groupContext="shape" transform="translate(256.892,-108.678) scale(-1,1)">
-			<title>Foglio.114</title>
-			<desc>3</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="280.407" width="9" height="8.99455"/>
-			<rect x="0" y="275.91" width="8.99455" height="8.99455" class="st3"/>
-			<text x="-4.99" y="282.81" transform="scale(-1,1)" class="st9" v:langID="1040"><v:paragraph v:spBefore="5"
-						v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>3</text>		</g>
+		<foreignObject x="250" y="154" width="9" height="60"><xhtml:p class="st9">3</xhtml:p></foreignObject>
 		<g id="shape5-172" v:mID="5" v:groupContext="shape" transform="translate(322.05,238.192) rotate(90) scale(-1,1)">
 			<title>Foglio.5</title>
 			<path d="M5.67 284.9 L0 284.9 L2.83 275.27 L5.67 284.9 Z" class="st5"/>
@@ -360,24 +244,12 @@
 			<title>Foglio.58</title>
 			<path d="M0 284.9 L39.69 284.9" class="st6"/>
 		</g>
-		<g id="shape59-177" v:mID="59" v:groupContext="shape" transform="translate(46.5279,-41.6806)">
-			<title>Foglio.59</title>
-			<desc>Message Send</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="31.3087" cy="277.038" width="62.62" height="15.7323"/>
-			<rect x="0" y="269.172" width="62.6173" height="15.7323" class="st3"/>
-			<text x="4.63" y="279.44" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Message Send</text>		</g>
+		<foreignObject x="49" y="218" width="90" height="60"><xhtml:p class="st4">Message Send</xhtml:p></foreignObject>
 		<g id="shape61-180" v:mID="61" v:groupContext="shape" transform="translate(46.783,-31.9011) scale(-1,1)">
 			<title>Foglio.61</title>
 			<path d="M0 284.9 L39.69 284.9" class="st6"/>
 		</g>
-		<g id="shape64-183" v:mID="64" v:groupContext="shape" transform="translate(46.5279,-24.035)">
-			<title>Foglio.64</title>
-			<desc>Message Receive</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.2693" cy="277.038" width="72.54" height="15.7323"/>
-			<rect x="0" y="269.172" width="72.5386" height="15.7323" class="st3"/>
-			<text x="4.48" y="279.44" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Message Receive</text>		</g>
+		<foreignObject x="49" y="235" width="90" height="60"><xhtml:p class="st4">Message Receive</xhtml:p></foreignObject>
 		<g id="shape60-186" v:mID="60" v:groupContext="shape" transform="translate(39.3902,-27.7959)">
 			<title>Foglio.60</title>
 			<ellipse cx="3.69641" cy="281.116" rx="3.69641" ry="3.78882" class="st5"/>
@@ -390,13 +262,7 @@
 			<title>Foglio.70</title>
 			<path d="M0 284.9 L36.85 284.9" class="st6"/>
 		</g>
-		<g id="shape71-193" v:mID="71" v:groupContext="shape" transform="translate(42.531,-4.19244)">
-			<title>Foglio.71</title>
-			<desc>Message Listen</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.2693" cy="277.038" width="72.54" height="15.7323"/>
-			<rect x="0" y="269.172" width="72.5386" height="15.7323" class="st3"/>
-			<text x="8.25" y="279.44" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Message Listen</text>		</g>
+		<foreignObject x="49" y="255" width="90" height="60"><xhtml:p class="st4">Message Listen</xhtml:p></foreignObject>
 		<g id="group47-196" transform="translate(72.556,-215.139)" v:mID="47" v:groupContext="group" v:layerMember="0">
 			<title>Database, mini 3 - blue</title>
 			<g id="group48-197" transform="translate(-6.82813,0)" v:mID="48" v:groupContext="group" v:layerMember="0">
