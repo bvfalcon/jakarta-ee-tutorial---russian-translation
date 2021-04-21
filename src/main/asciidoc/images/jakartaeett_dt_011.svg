@@ -3,7 +3,7 @@
 <!-- Generato da Microsoft Visio 11.0, SVG Export, v1.0 jakartaeett_dt_011.svg Pagina 1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.86422in"
 		height="2.60301in" viewBox="0 0 350.224 187.416" xml:space="preserve" color-interpolation-filters="sRGB" class="st9"
-		xmlns:xlink="http://www.w3.org/1999/xlink">
+		xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="MBSAAddinOutlineVisible" v:prompt="" v:val="VT0(1):26"/>
@@ -17,7 +17,7 @@
 		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st4 {fill:#c8d6e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st6 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st6 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
 		.st7 {fill:#f2f2f2;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st8 {font-size:1em}
 		.st9 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
@@ -44,13 +44,7 @@
 			<title>Foglio.483</title>
 			<rect x="0" y="167.574" width="85.0394" height="19.8425" class="st4"/>
 		</g>
-		<g id="shape484-10" v:mID="484" v:groupContext="shape" transform="translate(145.847,-166.854)">
-			<title>Foglio.484</title>
-			<desc>Assembly Root</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.1417" cy="177.495" width="72.29" height="19.8425"/>
-			<rect x="0" y="167.574" width="72.2835" height="19.8425" class="st5"/>
-			<text x="9.24" y="179.9" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Assembly Root</text>		</g>
+		<foreignObject x="153" y="-7" width="72" height="60"><xhtml:p class="st6">Assembly Root</xhtml:p></foreignObject>
 		<g id="shape1-13" v:mID="1" v:groupContext="shape" transform="translate(192.618,-153.817) scale(-1,1)">
 			<title>Foglio.1</title>
 			<path d="M0 187.42 L79.93 187.42" class="st3"/>
@@ -63,13 +57,7 @@
 			<title>Foglio.3</title>
 			<path d="M0 187.42 L13.04 187.42" class="st3"/>
 		</g>
-		<g id="shape4-22" v:mID="4" v:groupContext="shape" transform="translate(83.5838,-121.218)">
-			<title>Foglio.4</title>
-			<desc>META-INF</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="25.5118" cy="177.495" width="51.03" height="19.8425"/>
-			<rect x="0" y="167.574" width="51.0236" height="19.8425" class="st5"/>
-			<text x="6.63" y="179.9" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>META-INF</text>		</g>
+		<foreignObject x="88" y="39" width="51" height="60"><xhtml:p class="st6">META-INF</xhtml:p></foreignObject>
 		<g id="shape14-25" v:mID="14" v:groupContext="shape" transform="translate(138.43,33.5995) rotate(-90) scale(-1,1)">
 			<title>Foglio.14</title>
 			<path d="M0 187.42 L13.04 187.42" class="st3"/>
@@ -98,27 +86,9 @@
 			<title>Foglio.22</title>
 			<path d="M0 187.42 L13.04 187.42" class="st3"/>
 		</g>
-		<g id="shape23-42" v:mID="23" v:groupContext="shape" transform="translate(0.72,-24.2688)">
-			<title>Foglio.23</title>
-			<desc>ejb-jar.xml</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="33.5622" cy="181.166" width="67.13" height="12.5008"/>
-			<rect x="0" y="174.916" width="67.1244" height="12.5008" class="st5"/>
-			<text x="15.11" y="183.57" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>ejb-jar.xml</text>		</g>
-		<g id="shape24-45" v:mID="24" v:groupContext="shape" transform="translate(1.9389,-12.6751)">
-			<title>Foglio.24</title>
-			<desc>glassfish-ejb-jar.xml</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="48.8976" cy="181.166" width="97.8" height="12.5008"/>
-			<rect x="0" y="174.916" width="97.7953" height="12.5008" class="st5"/>
-			<text x="13.56" y="183.57" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>glassfish-ejb-jar.xml</text>		</g>
-		<g id="shape25-48" v:mID="25" v:groupContext="shape" transform="translate(9.02551,-0.72)">
-			<title>Foglio.25</title>
-			<desc>(optional)</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="22.3512" cy="181.166" width="44.71" height="12.5008"/>
-			<rect x="0" y="174.916" width="44.7024" height="12.5008" class="st5"/>
-			<text x="5.68" y="183.57" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>(optional)</text>		</g>
+		<foreignObject x="14" y="139" width="67" height="60"><xhtml:p class="st6">ejb-jar.xml</xhtml:p></foreignObject>
+		<foreignObject x="13" y="151" width="98" height="60"><xhtml:p class="st6">glassfish-ejb-jar.xml</xhtml:p></foreignObject>
+		<foreignObject x="13" y="163" width="45" height="60"><xhtml:p class="st6">(optional)</xhtml:p></foreignObject>
 		<g id="shape5-51" v:mID="5" v:groupContext="shape" transform="translate(113.156,-99.9586) scale(-1,1)">
 			<title>Foglio.5</title>
 			<path d="M0 187.42 L77 187.42" class="st3"/>
@@ -143,13 +113,7 @@
 			<title>Foglio.13</title>
 			<path d="M0 187.42 L16.73 187.42" class="st3"/>
 		</g>
-		<g id="shape16-68" v:mID="16" v:groupContext="shape" transform="translate(159.163,-21.4247)">
-			<title>Foglio.16</title>
-			<desc>MANIFEST.MF</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="34.8236" cy="181.166" width="69.65" height="12.5008"/>
-			<rect x="0" y="174.916" width="69.6472" height="12.5008" class="st5"/>
-			<text x="7.71" y="183.57" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>MANIFEST.MF</text>		</g>
+		<foreignObject x="165" y="142" width="70" height="60"><xhtml:p class="st6">MANIFEST.MF</xhtml:p></foreignObject>
 		<g id="shape8-71" v:mID="8" v:groupContext="shape" transform="translate(313.925,-95.8729)">
 			<title>Foglio.8</title>
 			<path d="M30.21 174.66 L22.12 135.14 L0 147.79 L8.12 187.42 L30.21 174.66 Z" class="st7"/>
@@ -170,13 +134,6 @@
 			<title>Foglio.26</title>
 			<path d="M0 187.42 L8.48 187.42" class="st3"/>
 		</g>
-		<g id="shape27-82" v:mID="27" v:groupContext="shape" transform="translate(273.505,-65.9429)">
-			<title>Foglio.27</title>
-			<desc>All .class files for this module</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="33.5622" cy="173.729" width="67.13" height="27.3756"/>
-			<rect x="0" y="160.041" width="67.1244" height="27.3756" class="st5"/>
-			<text x="9.56" y="171.33" class="st6" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>All .class files<v:newlineChar/><tspan
-						x="7.33" dy="1.2em" class="st8">for this module</tspan></text>		</g>
+		<foreignObject x="281" y="85" width="67" height="60"><xhtml:p class="st6">All .class files for this module</xhtml:p></foreignObject>
 	</g>
 </svg>
