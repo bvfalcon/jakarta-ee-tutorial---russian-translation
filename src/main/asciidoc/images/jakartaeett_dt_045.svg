@@ -2,7 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <!-- Generato da Microsoft Visio 11.0, SVG Export, v1.0 jakartaeett_dt_045.svg Pagina 1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.33496in"
-		height="2.08693in" viewBox="0 0 384.117 150.259" xml:space="preserve" color-interpolation-filters="sRGB" class="st32">
+		height="2.08693in" viewBox="0 0 384.117 150.259" xml:space="preserve" color-interpolation-filters="sRGB" class="st32"
+		xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="MBSAAvail" v:prompt="" v:val="VT0(2):26"/>
@@ -16,7 +17,7 @@
 		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#c8d6e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
 		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st6 {fill:#cadaa9;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st7 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
@@ -43,7 +44,7 @@
 		.st28 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
 		.st29 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.36}
 		.st30 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st31 {fill:#000000;font-family:Arial;font-size:0.666664em;font-weight:bold}
+		.st31 {fill:#000000;font-family:Arial;font-size:0.666664em;font-weight:bold;text-align:center}
 		.st32 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -199,13 +200,7 @@
 			<title>Foglio.48</title>
 			<rect x="0" y="15.6132" width="79.3701" height="134.646" class="st2"/>
 		</g>
-		<g id="shape24-5" v:mID="24" v:groupContext="shape" transform="translate(9.22394,-115.523)">
-			<title>Foglio.24</title>
-			<desc>Client</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="27.6378" cy="137.503" width="55.28" height="25.5118"/>
-			<rect x="0" y="124.747" width="55.2756" height="25.5118" class="st3"/>
-			<text x="17.41" y="139.9" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Client</text>		</g>
+		<foreignObject x="10" y="4" width="75" height="60"><xhtml:p class="st4">Client</xhtml:p></foreignObject>
 		<g id="shape2-8" v:mID="2" v:groupContext="shape" transform="translate(107.255,-96.8428) scale(-1,1)">
 			<title>Foglio.2</title>
 			<path d="M0 150.26 L21.5 150.26" class="st5"/>
@@ -214,13 +209,7 @@
 			<title>Foglio.3</title>
 			<rect x="0" y="14.1959" width="96.378" height="136.063" class="st6"/>
 		</g>
-		<g id="shape4-13" v:mID="4" v:groupContext="shape" transform="translate(284.185,-122.61)">
-			<title>Foglio.4</title>
-			<desc>Server</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="31.1811" cy="139.629" width="62.37" height="21.2598"/>
-			<rect x="0" y="128.999" width="62.3622" height="21.2598" class="st3"/>
-			<text x="19.4" y="142.03" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Server</text>		</g>
+		<foreignObject x="285" y="-1" width="85" height="60"><xhtml:p class="st4">Server</xhtml:p></foreignObject>
 		<g id="shape22-16" v:mID="22" v:groupContext="shape" transform="translate(-54.8617,50.5814) rotate(-90) scale(-1,1)">
 			<title>Foglio.22</title>
 			<path d="M5.67 150.26 L0 150.26 L2.83 140.62 L5.67 150.26 Z" class="st7"/>
@@ -229,13 +218,7 @@
 			<title>Foglio.23</title>
 			<path d="M0 150.26 L21.26 150.26" class="st5"/>
 		</g>
-		<g id="shape51-21" v:mID="51" v:groupContext="shape" transform="translate(102.767,-125.189)">
-			<title>Foglio.51</title>
-			<desc>Requests protected resource</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="57.4016" cy="143.753" width="114.81" height="13.011"/>
-			<rect x="0" y="137.248" width="114.803" height="13.011" class="st3"/>
-			<text x="6.04" y="146.15" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Requests protected resource</text>		</g>
+		<foreignObject x="107" y="1" width="145" height="60"><xhtml:p class="st4">Requests protected resource</xhtml:p></foreignObject>
 		<g id="shape52-24" v:mID="52" v:groupContext="shape" transform="translate(272.846,-131.695) scale(-1,1)">
 			<title>Foglio.52</title>
 			<path d="M0 150.26 L19.84 150.26" class="st5"/>
@@ -555,31 +538,13 @@
 			<title>Foglio.83</title>
 			<ellipse cx="5.69203" cy="144.425" rx="5.69203" ry="5.83433" class="st30"/>
 		</g>
-		<g id="shape84-144" v:mID="84" v:groupContext="shape" transform="translate(88.594,-126.356)">
-			<title>Foglio.84</title>
-			<desc>1</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="145.762" width="9" height="8.99455"/>
-			<rect x="0" y="141.264" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="148.16" class="st31" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>1</text>		</g>
+		<foreignObject x="91" y="2" width="9" height="60"><xhtml:p class="st31">1</xhtml:p></foreignObject>
 		<g id="shape85-147" v:mID="85" v:groupContext="shape" transform="translate(265.714,-91.0085)">
 			<title>Foglio.85</title>
 			<ellipse cx="5.69203" cy="144.425" rx="5.69203" ry="5.83433" class="st30"/>
 		</g>
-		<g id="shape86-149" v:mID="86" v:groupContext="shape" transform="translate(264.656,-91.3386)">
-			<title>Foglio.86</title>
-			<desc>2</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="145.762" width="9" height="8.99455"/>
-			<rect x="0" y="141.264" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="148.16" class="st31" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>2</text>		</g>
-		<g id="shape1-152" v:mID="1" v:groupContext="shape" transform="translate(104.421,-90.3373)">
-			<title>Foglio.1</title>
-			<desc>Requests username:password</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="62.9528" cy="143.753" width="125.91" height="13.011"/>
-			<rect x="0" y="137.248" width="125.906" height="13.011" class="st3"/>
-			<text x="8.93" y="146.15" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Requests username:password</text>		</g>
+		<foreignObject x="267" y="37" width="9" height="60"><xhtml:p class="st31">2</xhtml:p></foreignObject>
+		<foreignObject x="111" y="36" width="145" height="60"><xhtml:p class="st4">Requests username:password</xhtml:p></foreignObject>
 		<g id="shape5-155" v:mID="5" v:groupContext="shape" transform="translate(119.775,-19.9814) scale(-1,1)">
 			<title>Foglio.5</title>
 			<path d="M0 150.26 L34.02 150.26" class="st5"/>
@@ -608,37 +573,13 @@
 			<title>Foglio.12</title>
 			<ellipse cx="5.69203" cy="144.425" rx="5.69203" ry="5.83433" class="st30"/>
 		</g>
-		<g id="shape13-173" v:mID="13" v:groupContext="shape" transform="translate(88.594,-52.6548)">
-			<title>Foglio.13</title>
-			<desc>3</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="145.762" width="9" height="8.99455"/>
-			<rect x="0" y="141.264" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="148.16" class="st31" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>3</text>		</g>
+		<foreignObject x="91" y="76" width="9" height="60"><xhtml:p class="st31">3</xhtml:p></foreignObject>
 		<g id="shape14-176" v:mID="14" v:groupContext="shape" transform="translate(265.714,-14.1471)">
 			<title>Foglio.14</title>
 			<ellipse cx="5.69203" cy="144.425" rx="5.69203" ry="5.83433" class="st30"/>
 		</g>
-		<g id="shape15-178" v:mID="15" v:groupContext="shape" transform="translate(264.656,-14.4772)">
-			<title>Foglio.15</title>
-			<desc>4</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)"/>
-			<v:textRect cx="4.49727" cy="145.762" width="9" height="8.99455"/>
-			<rect x="0" y="141.264" width="8.99455" height="8.99455" class="st3"/>
-			<text x="4" y="148.16" class="st31" v:langID="1040"><v:paragraph v:spBefore="5" v:spAfter="5" v:bulletSize="0.166667"/><v:tabList/>4</text>		</g>
-		<g id="shape16-181" v:mID="16" v:groupContext="shape" transform="translate(112.689,-13.4759)">
-			<title>Foglio.16</title>
-			<desc>Returns requested resource</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.2362" cy="143.753" width="120.48" height="13.011"/>
-			<rect x="0" y="137.248" width="120.472" height="13.011" class="st3"/>
-			<text x="10.65" y="146.15" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Returns requested resource</text>		</g>
-		<g id="shape17-184" v:mID="17" v:groupContext="shape" transform="translate(107.019,-51.4885)">
-			<title>Foglio.17</title>
-			<desc>Sends username:password</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="53.0315" cy="143.753" width="106.07" height="13.011"/>
-			<rect x="0" y="137.248" width="106.063" height="13.011" class="st3"/>
-			<text x="4.56" y="146.15" class="st4" v:langID="1040"><v:paragraph v:horizAlign="1"/><v:tabList/>Sends username:password</text>		</g>
+		<foreignObject x="267" y="114" width="9" height="60"><xhtml:p class="st31">4</xhtml:p></foreignObject>
+		<foreignObject x="121" y="113" width="135" height="60"><xhtml:p class="st4">Returns requested resource</xhtml:p></foreignObject>
+		<foreignObject x="110" y="75" width="135" height="60"><xhtml:p class="st4">Sends username:password</xhtml:p></foreignObject>
 	</g>
 </svg>
