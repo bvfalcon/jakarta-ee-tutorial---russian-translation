@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Generato da Microsoft Visio 11.0, SVG Export, v1.0 jakartaeett_dt_033.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.49244in"
+		height="1.63417in" viewBox="0 0 395.456 117.66" xml:space="preserve" color-interpolation-filters="sRGB" class="st7"
+		xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="MBSAAvail" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="MBSAAddinEnabled" v:prompt="" v:val="VT0(2):26"/>
+			<v:ud v:nameU="MBSAAddinOutlineVisible" v:prompt="" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#c8d6e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
+		.st5 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape46-1" v:mID="46" v:groupContext="shape" transform="translate(176.393,-80.0901) scale(-1,1)">
+			<title>Foglio.46</title>
+			<rect x="0" y="94.9833" width="24.0199" height="22.6772" rx="11.3386" ry="11.3386" class="st1"/>
+		</g>
+		<g id="shape36-3" v:mID="36" v:groupContext="shape" transform="translate(37.5704,-0.72)">
+			<title>Foglio.36</title>
+			<rect x="0" y="1.44" width="357.165" height="116.22" class="st2"/>
+		</g>
+		<g id="shape35-5" v:mID="35" v:groupContext="shape" transform="translate(155.656,-80.0901)">
+			<title>Foglio.35</title>
+			<rect x="0" y="94.9833" width="71.7613" height="22.6772" rx="11.3386" ry="11.3386" class="st1"/>
+		</g>
+		<g id="shape9-7" v:mID="9" v:groupContext="shape" transform="translate(0.72,-80.0901)">
+			<title>Foglio.9</title>
+			<rect x="0" y="94.9833" width="46.7717" height="22.6772" class="st1"/>
+		</g>
+		<g id="shape45-9" v:mID="45" v:groupContext="shape" transform="translate(225.09,-80.0901) scale(-1,1)">
+			<title>Foglio.45</title>
+			<rect x="0" y="94.9833" width="21.7671" height="22.6772" rx="10.8835" ry="10.8835" class="st1"/>
+		</g>
+		<g id="shape44-11" v:mID="44" v:groupContext="shape" transform="translate(227.417,-80.0901) scale(-1,1)">
+			<title>Foglio.44</title>
+			<rect x="0" y="94.9833" width="21.2598" height="22.6772" rx="10.6299" ry="10.6299" class="st1"/>
+		</g>
+		<foreignObject x="4" y="9" width="37" height="60"><xhtml:p class="st4">Client 1</xhtml:p></foreignObject>
+		<foreignObject x="75" y="9" width="37" height="60"><xhtml:p class="st4">Sends</xhtml:p></foreignObject>
+		<g id="shape6-19" v:mID="6" v:groupContext="shape" transform="translate(263.798,29.0665) rotate(90) scale(-1,1)">
+			<title>Foglio.6</title>
+			<path d="M5.67 117.66 L0 117.66 L2.83 108.02 L5.67 117.66 Z" class="st5"/>
+		</g>
+		<g id="shape7-21" v:mID="7" v:groupContext="shape" transform="translate(155.775,-91.4287) scale(-1,1)">
+			<title>Foglio.7</title>
+			<path d="M0 117.66 L41.67 117.66" class="st6"/>
+		</g>
+		<g id="shape8-24" v:mID="8" v:groupContext="shape" transform="translate(73.0035,-91.4287) scale(-1,1)">
+			<title>Foglio.8</title>
+			<path d="M0 117.66 L25.26 117.66" class="st6"/>
+		</g>
+		<foreignObject x="160" y="29" width="60" height="60"><xhtml:p class="st4">Queue</xhtml:p></foreignObject>
+		<g id="shape11-30" v:mID="11" v:groupContext="shape" transform="translate(119.469,28.4854) rotate(-90)">
+			<title>Foglio.11</title>
+			<path d="M5.67 117.66 L0 117.66 L2.83 108.02 L5.67 117.66 Z" class="st5"/>
+		</g>
+		<g id="shape12-32" v:mID="12" v:groupContext="shape" transform="translate(229.476,-92.0098)">
+			<title>Foglio.12</title>
+			<path d="M0 117.66 L19.56 117.66" class="st6"/>
+		</g>
+		<g id="shape13-35" v:mID="13" v:groupContext="shape" transform="translate(306.862,-92.5909)">
+			<title>Foglio.13</title>
+			<path d="M0 117.66 L33.76 117.66" class="st6"/>
+		</g>
+		<foreignObject x="252" y="9" width="51" height="60"><xhtml:p class="st4">Consumes</xhtml:p></foreignObject>
+		<g id="shape24-41" v:mID="24" v:groupContext="shape" transform="translate(340.877,-80.0901)">
+			<title>Foglio.24</title>
+			<rect x="0" y="94.9833" width="46.7717" height="22.6772" class="st1"/>
+		</g>
+		<foreignObject x="344" y="9" width="37" height="60"><xhtml:p class="st4">Client 2</xhtml:p></foreignObject>
+		<g id="shape15-46" v:mID="15" v:groupContext="shape" transform="translate(226.106,-42.6716)">
+			<title>Foglio.15</title>
+			<path d="M0 117.66 L116.19 117.66" class="st6"/>
+		</g>
+		<g id="shape16-49" v:mID="16" v:groupContext="shape" transform="translate(343.767,88.7793) rotate(90) scale(-1,1)">
+			<title>Foglio.16</title>
+			<path d="M0 117.66 L28.61 117.66" class="st6"/>
+		</g>
+		<g id="shape17-52" v:mID="17" v:groupContext="shape" transform="translate(459.955,88.7793) rotate(90) scale(-1,1)">
+			<title>Foglio.17</title>
+			<path d="M0 117.66 L28.61 117.66" class="st6"/>
+		</g>
+		<foreignObject x="230" y="74" width="105" height="60"><xhtml:p class="st4">Transaction 2</xhtml:p></foreignObject>
+		<g id="shape2-58" v:mID="2" v:groupContext="shape" transform="translate(41.8383,-42.5948)">
+			<title>Foglio.2</title>
+			<path d="M0 117.66 L116.19 117.66" class="st6"/>
+		</g>
+		<g id="shape3-61" v:mID="3" v:groupContext="shape" transform="translate(159.499,88.856) rotate(90) scale(-1,1)">
+			<title>Foglio.3</title>
+			<path d="M0 117.66 L28.61 117.66" class="st6"/>
+		</g>
+		<g id="shape14-64" v:mID="14" v:groupContext="shape" transform="translate(275.687,88.856) rotate(90) scale(-1,1)">
+			<title>Foglio.14</title>
+			<path d="M0 117.66 L28.61 117.66" class="st6"/>
+		</g>
+		<foreignObject x="45" y="74" width="105" height="60"><xhtml:p class="st4">Transaction 1</xhtml:p></foreignObject>
+	</g>
+</svg>
