@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <!-- Generato da Microsoft Visio 11.0, SVG Export, v1.0 jakartaeett_dt_009.svg Pagina 1 -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.38659in"
-		height="2.97276in" viewBox="0 0 315.835 214.038" xml:space="preserve" color-interpolation-filters="sRGB" class="st9"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.74441in"
+		height="3.36646in" viewBox="0 0 341.597 242.385" xml:space="preserve" color-interpolation-filters="sRGB" class="st10"
 		xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<v:documentProperties v:langID="1040" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
@@ -14,15 +14,16 @@
 
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:#f2f2f2;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st2 {fill:#f2f2f2;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st3 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
-		.st4 {fill:#cadaa9;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st6 {fill:#729fdc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st7 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st8 {fill:#ffffcc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st9 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#f2f2f2;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st3 {fill:#f2f2f2;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st4 {fill:#000000;font-family:Arial;font-size:0.666664em;text-align:center}
+		.st5 {fill:#cadaa9;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st7 {fill:#729fdc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st8 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st9 {fill:#ffffcc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -30,80 +31,84 @@
 		<title>Pagina 1</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
-		<g id="shape11-1" v:mID="11" v:groupContext="shape" transform="translate(146.128,-162.295)">
+		<g id="shape398-1" v:mID="398" v:groupContext="shape" transform="translate(0.72,-0.72)">
+			<title>Foglio.398</title>
+			<rect x="0" y="1.44" width="340.157" height="240.945" class="st1"/>
+		</g>
+		<g id="shape11-3" v:mID="11" v:groupContext="shape" transform="translate(157.187,-176.468)">
 			<title>Foglio.11</title>
-			<rect x="0" y="197.031" width="112.825" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.825" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="26" width="105" height="60"><xhtml:p class="st3">WS Metadata</xhtml:p></foreignObject>
-		<g id="shape345-6" v:mID="345" v:groupContext="shape" transform="translate(3.83516,-30.4838)">
+		<g id="shape345-8" v:mID="345" v:groupContext="shape" transform="translate(14.8932,-44.657)">
 			<title>Foglio.345</title>
-			<rect x="0" y="31.2038" width="142.293" height="182.835" class="st4"/>
+			<rect x="0" y="59.5502" width="142.293" height="182.835" class="st5"/>
 		</g>
-		<foreignObject x="6" y="-6" width="135" height="60"><xhtml:p class="st3">Application Client Container</xhtml:p></foreignObject>
-		<g id="shape349-11" v:mID="349" v:groupContext="shape" transform="translate(146.128,-196.311)">
+		<foreignObject x="17" y="10" width="135" height="60"><xhtml:p class="st4">Application Client Container</xhtml:p></foreignObject>
+		<g id="shape349-13" v:mID="349" v:groupContext="shape" transform="translate(157.187,-210.484)">
 			<title>Foglio.349</title>
-			<rect x="0" y="197.031" width="112.825" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.825" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="-8" width="105" height="60"><xhtml:p class="st3">Jakarta Persistence</xhtml:p></foreignObject>
-		<g id="shape351-16" v:mID="351" v:groupContext="shape" transform="translate(146.128,-179.303)">
+		<foreignObject x="161" y="6" width="105" height="60"><xhtml:p class="st4">Jakarta Persistence</xhtml:p></foreignObject>
+		<g id="shape351-18" v:mID="351" v:groupContext="shape" transform="translate(157.187,-193.476)">
 			<title>Foglio.351</title>
-			<rect x="0" y="197.031" width="112.825" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.825" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="9" width="105" height="60"><xhtml:p class="st3">Management</xhtml:p></foreignObject>
-		<g id="shape355-21" v:mID="355" v:groupContext="shape" transform="translate(146.128,-146.704)">
+		<foreignObject x="161" y="23" width="105" height="60"><xhtml:p class="st4">Management</xhtml:p></foreignObject>
+		<g id="shape355-23" v:mID="355" v:groupContext="shape" transform="translate(157.187,-160.877)">
 			<title>Foglio.355</title>
-			<rect x="0" y="197.031" width="112.825" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.825" height="17.0079" class="st2"/>
 		</g>
-		<g id="shape357-23" v:mID="357" v:groupContext="shape" transform="translate(146.128,-129.696)">
+		<foreignObject x="161" y="40" width="105" height="60"><xhtml:p class="st4">WS Metadata</xhtml:p></foreignObject>
+		<g id="shape357-25" v:mID="357" v:groupContext="shape" transform="translate(157.187,-143.87)">
 			<title>Foglio.357</title>
-			<rect x="0" y="197.031" width="112.825" height="17.0079" class="st6"/>
+			<rect x="0" y="225.377" width="112.825" height="17.0079" class="st7"/>
 		</g>
-		<g id="shape359-25" v:mID="359" v:groupContext="shape" transform="translate(146.128,-112.689)">
+		<g id="shape359-27" v:mID="359" v:groupContext="shape" transform="translate(157.187,-126.862)">
 			<title>Foglio.359</title>
-			<rect x="0" y="197.031" width="112.825" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.825" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="75" width="105" height="60"><xhtml:p class="st3">JMS</xhtml:p></foreignObject>
-		<g id="shape385-30" v:mID="385" v:groupContext="shape" transform="translate(146.128,-97.098)">
+		<foreignObject x="161" y="90" width="105" height="60"><xhtml:p class="st4">JMS</xhtml:p></foreignObject>
+		<g id="shape385-32" v:mID="385" v:groupContext="shape" transform="translate(157.187,-111.271)">
 			<title>Foglio.385</title>
-			<rect x="0" y="197.031" width="115.659" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="115.659" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="91" width="105" height="60"><xhtml:p class="st3">JAX-WS</xhtml:p></foreignObject>
-		<g id="shape394-35" v:mID="394" v:groupContext="shape" transform="translate(9.50445,-108.437)">
+		<foreignObject x="161" y="106" width="105" height="60"><xhtml:p class="st4">JAX-WS</xhtml:p></foreignObject>
+		<g id="shape394-37" v:mID="394" v:groupContext="shape" transform="translate(20.5625,-122.61)">
 			<title>Foglio.394</title>
-			<rect x="0" y="196.794" width="131.282" height="17.2441" class="st7"/>
+			<rect x="0" y="225.141" width="131.282" height="17.2441" class="st8"/>
 		</g>
-		<foreignObject x="15" y="79" width="119" height="60"><xhtml:p class="st3">Application Client</xhtml:p></foreignObject>
-		<g id="shape396-40" v:mID="396" v:groupContext="shape" transform="translate(3.83516,-0.72)">
+		<foreignObject x="26" y="94" width="119" height="60"><xhtml:p class="st4">Application Client</xhtml:p></foreignObject>
+		<g id="shape396-42" v:mID="396" v:groupContext="shape" transform="translate(14.8932,-14.8932)">
 			<title>Foglio.396</title>
-			<rect x="0" y="197.031" width="18.8976" height="17.0079" class="st6"/>
+			<rect x="0" y="225.377" width="18.8976" height="17.0079" class="st7"/>
 		</g>
-		<foreignObject x="30" y="187" width="110" height="60"><xhtml:p class="st3">New in Jakarta EE</xhtml:p></foreignObject>
-		<g id="shape1-45" v:mID="1" v:groupContext="shape" transform="translate(259.13,-30.4838)">
+		<foreignObject x="41" y="202" width="110" height="60"><xhtml:p class="st4">New in Jakarta EE</xhtml:p></foreignObject>
+		<g id="shape1-47" v:mID="1" v:groupContext="shape" transform="translate(270.189,-44.657)">
 			<title>Foglio.1</title>
-			<rect x="0" y="31.2038" width="55.9843" height="182.835" class="st8"/>
+			<rect x="0" y="59.5502" width="55.9843" height="182.835" class="st9"/>
 		</g>
-		<foreignObject x="264" y="-6" width="50" height="60"><xhtml:p class="st3">Java SE</xhtml:p></foreignObject>
-		<g id="shape3-50" v:mID="3" v:groupContext="shape" transform="translate(146.099,-80.0901)">
+		<foreignObject x="275" y="5" width="50" height="60"><xhtml:p class="st4">Java SE</xhtml:p></foreignObject>
+		<g id="shape3-52" v:mID="3" v:groupContext="shape" transform="translate(157.157,-94.2633)">
 			<title>Foglio.3</title>
-			<rect x="0" y="197.031" width="112.677" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.677" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="108" width="105" height="60"><xhtml:p class="st3">Bean Validation</xhtml:p></foreignObject>
-		<g id="shape5-55" v:mID="5" v:groupContext="shape" transform="translate(146.099,-64.4995)">
+		<foreignObject x="161" y="122" width="105" height="60"><xhtml:p class="st4">Bean Validation</xhtml:p></foreignObject>
+		<g id="shape5-57" v:mID="5" v:groupContext="shape" transform="translate(157.157,-78.6728)">
 			<title>Foglio.5</title>
-			<rect x="0" y="197.031" width="112.677" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.677" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="123" width="105" height="60"><xhtml:p class="st3">Jakarta Mail</xhtml:p></foreignObject>
-		<g id="shape7-60" v:mID="7" v:groupContext="shape" transform="translate(146.099,-47.4917)">
+		<foreignObject x="161" y="138" width="105" height="60"><xhtml:p class="st4">Jakarta Mail</xhtml:p></foreignObject>
+		<g id="shape7-62" v:mID="7" v:groupContext="shape" transform="translate(157.157,-61.6649)">
 			<title>Foglio.7</title>
-			<rect x="0" y="197.031" width="112.677" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.677" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="140" width="105" height="60"><xhtml:p class="st3">CDI</xhtml:p></foreignObject>
-		<g id="shape9-65" v:mID="9" v:groupContext="shape" transform="translate(146.099,-30.4838)">
+		<foreignObject x="161" y="155" width="105" height="60"><xhtml:p class="st4">CDI</xhtml:p></foreignObject>
+		<g id="shape9-67" v:mID="9" v:groupContext="shape" transform="translate(157.157,-44.657)">
 			<title>Foglio.9</title>
-			<rect x="0" y="197.031" width="112.677" height="17.0079" class="st1"/>
+			<rect x="0" y="225.377" width="112.677" height="17.0079" class="st2"/>
 		</g>
-		<foreignObject x="150" y="157" width="105" height="60"><xhtml:p class="st3">Dependency Injection</xhtml:p></foreignObject>
-		<foreignObject x="150" y="41" width="105" height="60"><xhtml:p class="st3">Web Services</xhtml:p></foreignObject>
-		<foreignObject x="150" y="58" width="105" height="60"><xhtml:p class="st3">JSON-P</xhtml:p></foreignObject>
+		<foreignObject x="161" y="172" width="105" height="60"><xhtml:p class="st4">Dependency Injection</xhtml:p></foreignObject>
+		<foreignObject x="161" y="56" width="105" height="60"><xhtml:p class="st4">Web Services</xhtml:p></foreignObject>
+		<foreignObject x="161" y="73" width="105" height="60"><xhtml:p class="st4">JSON-P</xhtml:p></foreignObject>
 	</g>
 </svg>
