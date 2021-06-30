@@ -48,7 +48,7 @@
 			<title>Foglio.3</title>
 			<rect x="0" y="188.527" width="113.386" height="28.3465" class="st3"/>
 		</g>
-		<foreignObject x="439" y="64" width="100" height="60"><xhtml:p class="st5">SetupOffice Entity</xhtml:p></foreignObject>
+		<foreignObject x="439" y="58" width="100" height="60"><xhtml:p class="st5">SetupOffice Entity</xhtml:p></foreignObject>
 		<foreignObject x="80" y="2" width="470" height="60"><xhtml:p class="st5">Jakarta EE Server</xhtml:p></foreignObject>
 		<g id="shape6-13" v:mID="6" v:groupContext="shape" transform="translate(323.961,79.1806) rotate(90)">
 			<title>Foglio.6</title>
@@ -166,7 +166,7 @@
 			<title>Foglio.52</title>
 			<path d="M0 216.87 L14.26 216.87" class="st11"/>
 		</g>
-		<foreignObject x="92" y="146" width="68" height="60"><xhtml:p class="st5">Reply Queue</xhtml:p></foreignObject>
+		<foreignObject x="92" y="146" width="100" height="60"><xhtml:p class="st5">Reply Queue</xhtml:p></foreignObject>
 		<g id="shape60-108" v:mID="60" v:groupContext="shape" transform="translate(-51.0491,139.11) rotate(-90)">
 			<title>Foglio.60</title>
 			<path d="M5.67 216.87 L0 216.87 L2.83 207.24 L5.67 216.87 Z" class="st6"/>
@@ -218,7 +218,7 @@
 			<title>Foglio.20</title>
 			<path d="M0 216.87 L28.35 216.87" class="st7"/>
 		</g>
-		<foreignObject x="114" y="170" width="100" height="60"><xhtml:p class="st5">Message Passing</xhtml:p></foreignObject>
+		<foreignObject x="114" y="170" width="120" height="60"><xhtml:p class="st5">Message Passing</xhtml:p></foreignObject>
 		<foreignObject x="113" y="184" width="100" height="60"><xhtml:p class="st5">Method Invocation</xhtml:p></foreignObject>
 		<g id="group53-155" transform="translate(118.202,-62.6349)" v:mID="53" v:groupContext="group" v:layerMember="0">
 			<title>Database, mini 3 - blue</title>

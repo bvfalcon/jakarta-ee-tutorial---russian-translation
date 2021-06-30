@@ -374,9 +374,9 @@
 		</foreignObject>
 		<g id="shape83-247" v:mID="83" v:groupContext="shape" transform="translate(128.279,-150.177)">
 			<title>Foglio.83</title>
-			<rect x="0" y="265.062" width="90.7087" height="62.3622" class="st4"/>
+			<rect x="-5" y="265.062" width="95.7087" height="62.3622" class="st4"/>
 		</g>
-		<foreignObject x="132" y="104" width="50" height="74">
+		<foreignObject x="127" y="104" width="55" height="74">
 			<xhtml:p class="st6">Jakarta Server Pages Faces</xhtml:p>
 		</foreignObject>
 		<foreignObject x="232" y="121" width="40" height="74">

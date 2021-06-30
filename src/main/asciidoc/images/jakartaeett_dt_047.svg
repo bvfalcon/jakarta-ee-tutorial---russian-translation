@@ -37,14 +37,14 @@
 		<foreignObject x="315" y="17" width="80" height="60"><xhtml:p class="st3">Propagated Security Identity (Jakarta EE)</xhtml:p></foreignObject>
 		<g id="shape12-8" v:mID="12" v:groupContext="shape" transform="translate(199.854,-16.3106)">
 			<title>Foglio.12</title>
-			<rect x="0" y="21.2825" width="102.047" height="53.8583" class="st5"/>
+			<rect x="0" y="21.2825" width="102.047" height="68" class="st5"/>
 		</g>
 		<foreignObject x="205" y="-4" width="95" height="60"><xhtml:p class="st3">EJB or Web Container</xhtml:p></foreignObject>
 		<g id="shape14-14" v:mID="14" v:groupContext="shape" transform="translate(203.645,-20.0901)">
 			<title>Foglio.14</title>
-			<rect x="0" y="54.3534" width="92.5866" height="20.7874" class="st6"/>
+			<rect x="0" y="65" width="92.5866" height="24" class="st6"/>
 		</g>
-		<foreignObject x="209" y="27" width="83" height="60"><xhtml:p class="st3">Intermediate</xhtml:p></foreignObject>
+		<foreignObject x="209" y="34" width="83" height="60"><xhtml:p class="st3">Intermediate</xhtml:p></foreignObject>
 		<g id="shape16-19" v:mID="16" v:groupContext="shape" transform="translate(487.699,41.8224) rotate(90)">
 			<title>Foglio.16</title>
 			<path d="M5.67 75.14 L0 75.14 L2.83 65.5 L5.67 75.14 Z" class="st7"/>
@@ -60,14 +60,14 @@
 		</g>
 		<g id="shape6-32" v:mID="6" v:groupContext="shape" transform="translate(6.38929,-16.3106)">
 			<title>Foglio.6</title>
-			<rect x="0" y="21.2825" width="102.047" height="53.8583" class="st5"/>
+			<rect x="0" y="21.2825" width="102.047" height="68" class="st5"/>
 		</g>
 		<foreignObject x="10" y="-4" width="95" height="60"><xhtml:p class="st3">Application Client or Web Client</xhtml:p></foreignObject>
 		<g id="shape8-38" v:mID="8" v:groupContext="shape" transform="translate(10.1806,-20.0901)">
 			<title>Foglio.8</title>
-			<rect x="0" y="54.3534" width="92.5866" height="20.7874" class="st6"/>
+			<rect x="0" y="65" width="92.5866" height="24" class="st6"/>
 		</g>
-		<foreignObject x="14" y="27" width="87" height="60"><xhtml:p class="st3">Installing Client</xhtml:p></foreignObject>
+		<foreignObject x="14" y="34" width="87" height="60"><xhtml:p class="st3">Installing Client</xhtml:p></foreignObject>
 		<g id="shape10-43" v:mID="10" v:groupContext="shape" transform="translate(268.475,41.8224) rotate(90)">
 			<title>Foglio.10</title>
 			<path d="M5.67 75.14 L0 75.14 L2.83 65.5 L5.67 75.14 Z" class="st7"/>
@@ -78,14 +78,14 @@
 		</g>
 		<g id="shape19-48" v:mID="19" v:groupContext="shape" transform="translate(419.22,-16.3106)">
 			<title>Foglio.19</title>
-			<rect x="0" y="21.2825" width="58.6772" height="53.8583" class="st5"/>
+			<rect x="0" y="21.2825" width="58.6772" height="68" class="st5"/>
 		</g>
 		<foreignObject x="422" y="-4" width="52" height="60"><xhtml:p class="st3">EJB Container</xhtml:p></foreignObject>
 		<g id="shape21-54" v:mID="21" v:groupContext="shape" transform="translate(423.011,-20.0901)">
 			<title>Foglio.21</title>
-			<rect x="0" y="54.3534" width="49.2165" height="20.7874" class="st6"/>
+			<rect x="0" y="65" width="49.2165" height="24" class="st6"/>
 		</g>
-		<foreignObject x="427" y="27" width="43" height="60"><xhtml:p class="st3">Target</xhtml:p></foreignObject>
+		<foreignObject x="427" y="34" width="43" height="60"><xhtml:p class="st3">Target</xhtml:p></foreignObject>
 		<g id="shape23-59" v:mID="23" v:groupContext="shape" transform="translate(487.841,41.8224) rotate(90)">
 			<title>Foglio.23</title>
 			<path d="M5.67 75.14 L0 75.14 L2.83 65.5 L5.67 75.14 Z" class="st7"/>

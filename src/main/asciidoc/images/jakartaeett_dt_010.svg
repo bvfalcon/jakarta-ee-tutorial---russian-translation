@@ -73,12 +73,12 @@
 		</g>
 		<g id="shape9-37" v:mID="9" v:groupContext="shape" transform="translate(128.279,-109.854)">
 			<title>Foglio.9</title>
-			<rect x="0" y="172.369" width="76.5354" height="27.4961" class="st4"/>
+			<rect x="0" y="172.369" width="76.5354" height="40" class="st4"/>
 		</g>
 		<foreignObject x="130" y="53" width="70" height="60"><xhtml:p class="st6">Application Client Module</xhtml:p></foreignObject>
 		<g id="shape11-43" v:mID="11" v:groupContext="shape" transform="translate(209.066,-109.854)">
 			<title>Foglio.11</title>
-			<rect x="0" y="172.369" width="85.3228" height="27.4961" class="st4"/>
+			<rect x="0" y="172.369" width="85.3228" height="40" class="st4"/>
 		</g>
 		<foreignObject x="210" y="53" width="82" height="60"><xhtml:p class="st6">Resource Adapter Module</xhtml:p></foreignObject>
 		<g id="shape13-49" v:mID="13" v:groupContext="shape" transform="translate(41.7997,48.909) rotate(-90) scale(-1,1)">
@@ -120,6 +120,6 @@
 		</g>
 		<foreignObject x="7" y="151" width="75" height="60"><xhtml:p class="st6">application.xml</xhtml:p></foreignObject>
 		<foreignObject x="7" y="163" width="117" height="60"><xhtml:p class="st6">glassfish-application.xml</xhtml:p></foreignObject>
-		<foreignObject x="7" y="175" width="47" height="60"><xhtml:p class="st6">(optional)</xhtml:p></foreignObject>
+		<foreignObject x="7" y="175" width="80" height="60"><xhtml:p class="st6">(optional)</xhtml:p></foreignObject>
 	</g>
 </svg>

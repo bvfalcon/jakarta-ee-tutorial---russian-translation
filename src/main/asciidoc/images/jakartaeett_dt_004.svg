@@ -257,10 +257,10 @@
 		</g>
 		<g id="shape5-11" v:mID="5" v:groupContext="shape" transform="translate(357.885,-340.877)">
 			<title>Foglio.5</title>
-			<rect x="0" y="361.44" width="51.0236" height="70.8661" class="st4"/>
+			<rect x="0" y="361.44" width="63" height="70.8661" class="st4"/>
 		</g>
 		<foreignObject x="319" y="28" width="37" height="60"><xhtml:p class="st6">Client Tier</xhtml:p></foreignObject>
-		<foreignObject x="360" y="12" width="45" height="60"><xhtml:p class="st6">Client Machine</xhtml:p></foreignObject>
+		<foreignObject x="360" y="12" width="60" height="60"><xhtml:p class="st6">Client Machine</xhtml:p></foreignObject>
 		<g id="shape8-21" v:mID="8" v:groupContext="shape" transform="translate(20.5625,-207.649)">
 			<title>Foglio.8</title>
 			<rect x="0" y="332.739" width="334.488" height="99.5669" class="st3"/>
@@ -271,9 +271,9 @@
 		</g>
 		<g id="shape10-25" v:mID="10" v:groupContext="shape" transform="translate(357.885,-173.633)">
 			<title>Foglio.10</title>
-			<rect x="0" y="318.92" width="51.0236" height="113.386" class="st4"/>
+			<rect x="0" y="318.92" width="63" height="113.386" class="st4"/>
 		</g>
-		<foreignObject x="361" y="138" width="45" height="60"><xhtml:p class="st6">Jakarta EE Server</xhtml:p></foreignObject>
+		<foreignObject x="361" y="138" width="60" height="60"><xhtml:p class="st6">Jakarta EE Server</xhtml:p></foreignObject>
 		<foreignObject x="319" y="115" width="33" height="60"><xhtml:p class="st6">Web Tier</xhtml:p></foreignObject>
 		<foreignObject x="307" y="246" width="45" height="60"><xhtml:p class="st6">Business Tier</xhtml:p></foreignObject>
 		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(-187.948,86.8224) rotate(-90) scale(-1,1)">
@@ -1406,9 +1406,9 @@
 		</g>
 		<g id="shape195-438" v:mID="195" v:groupContext="shape" transform="translate(360.72,-27.6491)">
 			<title>Foglio.195</title>
-			<rect x="0" y="399.708" width="51.0236" height="32.5984" class="st4"/>
+			<rect x="0" y="399.708" width="63" height="32.5984" class="st4"/>
 		</g>
-		<foreignObject x="362" y="364" width="46" height="60"><xhtml:p class="st6">Database Server</xhtml:p></foreignObject>
+		<foreignObject x="362" y="364" width="60" height="60"><xhtml:p class="st6">Database Server</xhtml:p></foreignObject>
 		<foreignObject x="310" y="349" width="45" height="60"><xhtml:p class="st6">EIS Tier</xhtml:p></foreignObject>
 		<foreignObject x="45" y="348" width="204" height="60"><xhtml:p class="st6">Database and Legacy Systems</xhtml:p></foreignObject>
 		<g id="shape212-451" v:mID="212" v:groupContext="shape" transform="translate(40.405,-105.602)">

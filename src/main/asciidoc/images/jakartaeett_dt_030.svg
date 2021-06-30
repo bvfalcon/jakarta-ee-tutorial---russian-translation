@@ -379,7 +379,7 @@
 			<title>Foglio.81</title>
 			<path d="M0 304.75 L28.3 304.75" class="st7"/>
 		</g>
-		<foreignObject x="21" y="188" width="34" height="60"><xhtml:p class="st4">Sends To</xhtml:p></foreignObject>
+		<foreignObject x="5" y="188" width="60" height="60"><xhtml:p class="st4">Sends To</xhtml:p></foreignObject>
 		<g id="shape64-59" v:mID="64" v:groupContext="shape" transform="translate(32.4822,537.058) scale(1,-1)">
 			<title>Foglio.64</title>
 			<path d="M5.67 304.75 L0 304.75 L2.83 295.11 L5.67 304.75 Z" class="st6"/>
@@ -392,7 +392,7 @@
 			<title>Foglio.69</title>
 			<path d="M0 304.75 L8.79 304.75" class="st7"/>
 		</g>
-		<foreignObject x="14" y="276" width="54" height="60"><xhtml:p class="st4">Destination</xhtml:p></foreignObject>
+		<foreignObject x="0" y="276" width="90" height="60"><xhtml:p class="st4">Destination</xhtml:p></foreignObject>
 		<g id="shape3-70" v:mID="3" v:groupContext="shape" transform="translate(142.452,-111.271)">
 			<title>Foglio.3</title>
 			<rect x="0" y="204.117" width="141.732" height="100.63" class="st8"/>
@@ -469,7 +469,7 @@
 			<title>Foglio.31</title>
 			<path d="M0 304.75 L8.79 304.75" class="st7"/>
 		</g>
-		<foreignObject x="366" y="276" width="54" height="60"><xhtml:p class="st4">Destination</xhtml:p></foreignObject>
+		<foreignObject x="330" y="276" width="90" height="60"><xhtml:p class="st4">Destination</xhtml:p></foreignObject>
 		<foreignObject x="199" y="189" width="46" height="60"><xhtml:p class="st4">Creates</xhtml:p></foreignObject>
 		<g id="shape34-137" v:mID="34" v:groupContext="shape" transform="translate(211.901,533.054) scale(1,-1)">
 			<title>Foglio.34</title>

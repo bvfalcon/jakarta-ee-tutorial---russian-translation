@@ -89,8 +89,8 @@
 			<rect x="0" y="114.826" width="68.0315" height="28.3465" class="st3"/>
 		</g>
 		<foreignObject x="281" y="89" width="54" height="60"><xhtml:p class="st7">JavaBeans Components</xhtml:p></foreignObject>
-		<foreignObject x="380" y="39" width="55" height="60"><xhtml:p class="st9">Database</xhtml:p></foreignObject>
-		<foreignObject x="380" y="115" width="55" height="60"><xhtml:p class="st9">Database</xhtml:p></foreignObject>
+		<foreignObject x="365" y="39" width="80" height="60"><xhtml:p class="st9">Database</xhtml:p></foreignObject>
+		<foreignObject x="365" y="115" width="80" height="60"><xhtml:p class="st9">Database</xhtml:p></foreignObject>
 		<g id="shape30-52" v:mID="30" v:groupContext="shape" transform="translate(48.909,-105.272)">
 			<title>Foglio.30</title>
 			<ellipse cx="5.69203" cy="137.338" rx="5.69203" ry="5.83433" class="st10"/>

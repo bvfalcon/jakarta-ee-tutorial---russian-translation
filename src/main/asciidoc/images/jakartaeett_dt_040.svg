@@ -46,12 +46,12 @@
 		</g>
 		<g id="shape3-15" v:mID="3" v:groupContext="shape" transform="translate(218.988,-9.22394)">
 			<title>Foglio.3</title>
-			<rect x="0" y="15.6132" width="86.4567" height="53.8583" class="st2"/>
+			<rect x="0" y="15.6132" width="86.4567" height="60" class="st2"/>
 		</g>
 		<foreignObject x="222" y="-1" width="75" height="60"><xhtml:p class="st4">Web Server</xhtml:p></foreignObject>
 		<g id="shape49-20" v:mID="49" v:groupContext="shape" transform="translate(222.779,-17.7279)">
 			<title>Foglio.49</title>
-			<rect x="0" y="48.6841" width="78.4134" height="20.7874" class="st7"/>
+			<rect x="0" y="48.6841" width="78.4134" height="32" class="st7"/>
 		</g>
 		<foreignObject x="226" y="24" width="70" height="60"><xhtml:p class="st4">Credential</xhtml:p></foreignObject>
 		<g id="shape22-25" v:mID="22" v:groupContext="shape" transform="translate(282.223,44.657) rotate(90)">

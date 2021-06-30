@@ -59,14 +59,14 @@
 		<foreignObject x="95" y="65" width="135" height="60"><xhtml:p class="st4">Accounting</xhtml:p></foreignObject>
 		<g id="shape9-28" v:mID="9" v:groupContext="shape" transform="translate(261.507,-68.7515)">
 			<title>Foglio.9</title>
-			<rect x="0" y="75.1408" width="87.874" height="22.6772" class="st2"/>
+			<rect x="0" y="75.1408" width="93" height="22.6772" class="st2"/>
 		</g>
-		<foreignObject x="265" y="0" width="79" height="60"><xhtml:p class="st4">Parts Inventory</xhtml:p></foreignObject>
+		<foreignObject x="265" y="0" width="90" height="60"><xhtml:p class="st4">Parts Inventory</xhtml:p></foreignObject>
 		<g id="shape11-33" v:mID="11" v:groupContext="shape" transform="translate(261.507,-37.5704)">
 			<title>Foglio.11</title>
-			<rect x="0" y="75.1408" width="87.874" height="22.6772" class="st2"/>
+			<rect x="0" y="75.1408" width="93" height="22.6772" class="st2"/>
 		</g>
-		<foreignObject x="265" y="31" width="79" height="60"><xhtml:p class="st4">Parts Order</xhtml:p></foreignObject>
+		<foreignObject x="265" y="31" width="90" height="60"><xhtml:p class="st4">Parts Order</xhtml:p></foreignObject>
 		<g id="shape13-38" v:mID="13" v:groupContext="shape" transform="translate(88.3106,-63.0822) scale(-1,1)">
 			<title>Foglio.13</title>
 			<path d="M0 97.82 L25.23 97.82" class="st5"/>
