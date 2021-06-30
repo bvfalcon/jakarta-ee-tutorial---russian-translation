@@ -254,10 +254,10 @@
 		</g>
 		<g id="shape5-11" v:mID="5" v:groupContext="shape" transform="translate(359.303,-218.988)">
 			<title>Foglio.5</title>
-			<rect x="0" y="242.385" width="51.0236" height="70.8661" class="st4"/>
+			<rect x="0" y="242.385" width="63" height="70.8661" class="st4"/>
 		</g>
 		<foreignObject x="318" y="32" width="37" height="60"><xhtml:p class="st6">Client Tier</xhtml:p></foreignObject>
-		<foreignObject x="361" y="16" width="43" height="60"><xhtml:p class="st6">Client Machine</xhtml:p></foreignObject>
+		<foreignObject x="361" y="16" width="60" height="60"><xhtml:p class="st6">Client Machine</xhtml:p></foreignObject>
 		<g id="shape8-21" v:mID="8" v:groupContext="shape" transform="translate(21.9798,-85.7594)">
 			<title>Foglio.8</title>
 			<rect x="0" y="213.684" width="334.488" height="99.5669" class="st3"/>
@@ -268,11 +268,11 @@
 		</g>
 		<g id="shape10-25" v:mID="10" v:groupContext="shape" transform="translate(359.303,-51.7436)">
 			<title>Foglio.10</title>
-			<rect x="0" y="199.865" width="51.0236" height="113.386" class="st4"/>
+			<rect x="0" y="199.865" width="63" height="113.386" class="st4"/>
 		</g>
-		<foreignObject x="360" y="142" width="43" height="60"><xhtml:p class="st6">Jakarta EE Server</xhtml:p></foreignObject>
+		<foreignObject x="360" y="142" width="60" height="60"><xhtml:p class="st6">Jakarta EE Server</xhtml:p></foreignObject>
 		<foreignObject x="313" y="118" width="39" height="60"><xhtml:p class="st6">Web Tier</xhtml:p></foreignObject>
-		<foreignObject x="306" y="250" width="44" height="60"><xhtml:p class="st6">Business Tier</xhtml:p></foreignObject>
+		<foreignObject x="285" y="250" width="70" height="60"><xhtml:p class="st6">Business Tier</xhtml:p></foreignObject>
 		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(-67.4759,89.657) rotate(-90) scale(-1,1)">
 			<title>Foglio.14</title>
 			<path d="M9.36 313.25 L9.72 313.25 L28.55 313.25" class="st8"/>

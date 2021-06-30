@@ -88,12 +88,12 @@
 			<ellipse cx="5.69203" cy="182.692" rx="5.69203" ry="5.83433" class="st7"/>
 		</g>
 		<foreignObject x="5" y="160" width="9" height="60"><xhtml:p class="st8">2</xhtml:p></foreignObject>
-		<foreignObject x="17" y="-8" width="37" height="60"><xhtml:p class="st6">Create</xhtml:p></foreignObject>
-		<foreignObject x="17" y="12" width="160" height="60"><xhtml:p class="st6">Dependency Injection, if any</xhtml:p></foreignObject>
-		<foreignObject x="17" y="31" width="150" height="60"><xhtml:p class="st6">PostConstruct callback, if any</xhtml:p></foreignObject>
-		<foreignObject x="17" y="52" width="220" height="60"><xhtml:p class="st6">Init method, or ejbCreate&lt;METHOD&gt;, if any</xhtml:p></foreignObject>
-		<foreignObject x="232" y="73" width="88" height="60"><xhtml:p class="st6">PrePassivate callback, if any</xhtml:p></foreignObject>
-		<foreignObject x="233" y="111" width="88" height="60"><xhtml:p class="st6">PostActivate callback, if any</xhtml:p></foreignObject>
+		<foreignObject x="17" y="-8" width="50" height="60"><xhtml:p class="st6">Create</xhtml:p></foreignObject>
+		<foreignObject x="17" y="12" width="210" height="60"><xhtml:p class="st6">Dependency Injection, if any</xhtml:p></foreignObject>
+		<foreignObject x="17" y="31" width="240" height="60"><xhtml:p class="st6">PostConstruct callback, if any</xhtml:p></foreignObject>
+		<foreignObject x="17" y="52" width="280" height="60"><xhtml:p class="st6">Init method, or ejbCreate&lt;METHOD&gt;, if any</xhtml:p></foreignObject>
+		<foreignObject x="220" y="68" width="120" height="60"><xhtml:p class="st6">PrePassivate callback, if any</xhtml:p></foreignObject>
+		<foreignObject x="220" y="115" width="120" height="60"><xhtml:p class="st6">PostActivate callback, if any</xhtml:p></foreignObject>
 		<g id="shape22-73" v:mID="22" v:groupContext="shape" transform="translate(4.20887,-25.9017)">
 			<title>Foglio.22</title>
 			<ellipse cx="5.69203" cy="182.692" rx="5.69203" ry="5.83433" class="st7"/>
@@ -104,8 +104,8 @@
 			<ellipse cx="5.69203" cy="182.692" rx="5.69203" ry="5.83433" class="st7"/>
 		</g>
 		<foreignObject x="5" y="160" width="9" height="60"><xhtml:p class="st8">2</xhtml:p></foreignObject>
-		<foreignObject x="18" y="140" width="45" height="60"><xhtml:p class="st6">Remove</xhtml:p></foreignObject>
-		<foreignObject x="17" y="159" width="130" height="60"><xhtml:p class="st6">PreDestroy callback, if any</xhtml:p></foreignObject>
+		<foreignObject x="18" y="140" width="50" height="60"><xhtml:p class="st6">Remove</xhtml:p></foreignObject>
+		<foreignObject x="17" y="159" width="225" height="60"><xhtml:p class="st6">PreDestroy callback, if any</xhtml:p></foreignObject>
 		<g id="shape28-89" v:mID="28" v:groupContext="shape" transform="translate(128.279,-80.0901) scale(-1,1)">
 			<title>Foglio.28</title>
 			<path d="M0 188.53 L28.35 188.53" class="st3"/>

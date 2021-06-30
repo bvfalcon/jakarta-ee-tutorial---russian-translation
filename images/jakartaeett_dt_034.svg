@@ -40,9 +40,9 @@
 		</g>
 		<g id="shape9-3" v:mID="9" v:groupContext="shape" transform="translate(3.62924,-162.295)">
 			<title>Foglio.9</title>
-			<rect x="0" y="262.227" width="46.7717" height="22.6772" class="st2"/>
+			<rect x="0" y="262.227" width="60" height="33" class="st2"/>
 		</g>
-		<foreignObject x="6" y="94" width="37" height="60"><xhtml:p class="st4">Retailer</xhtml:p></foreignObject>
+		<foreignObject x="6" y="94" width="55" height="60"><xhtml:p class="st4">Retailer</xhtml:p></foreignObject>
 		<g id="shape6-8" v:mID="6" v:groupContext="shape" transform="translate(341.184,54.5783) rotate(90) scale(-1,1)">
 			<title>Foglio.6</title>
 			<path d="M5.67 284.9 L0 284.9 L2.83 275.27 L5.67 284.9 Z" class="st5"/>
@@ -244,12 +244,12 @@
 			<title>Foglio.58</title>
 			<path d="M0 284.9 L39.69 284.9" class="st6"/>
 		</g>
-		<foreignObject x="49" y="218" width="90" height="60"><xhtml:p class="st4">Message Send</xhtml:p></foreignObject>
+		<foreignObject x="49" y="218" width="110" height="60"><xhtml:p class="st4">Message Send</xhtml:p></foreignObject>
 		<g id="shape61-180" v:mID="61" v:groupContext="shape" transform="translate(46.783,-31.9011) scale(-1,1)">
 			<title>Foglio.61</title>
 			<path d="M0 284.9 L39.69 284.9" class="st6"/>
 		</g>
-		<foreignObject x="49" y="235" width="90" height="60"><xhtml:p class="st4">Message Receive</xhtml:p></foreignObject>
+		<foreignObject x="49" y="235" width="110" height="60"><xhtml:p class="st4">Message Receive</xhtml:p></foreignObject>
 		<g id="shape60-186" v:mID="60" v:groupContext="shape" transform="translate(39.3902,-27.7959)">
 			<title>Foglio.60</title>
 			<ellipse cx="3.69641" cy="281.116" rx="3.69641" ry="3.78882" class="st5"/>
@@ -262,7 +262,7 @@
 			<title>Foglio.70</title>
 			<path d="M0 284.9 L36.85 284.9" class="st6"/>
 		</g>
-		<foreignObject x="49" y="255" width="90" height="60"><xhtml:p class="st4">Message Listen</xhtml:p></foreignObject>
+		<foreignObject x="49" y="255" width="110" height="60"><xhtml:p class="st4">Message Listen</xhtml:p></foreignObject>
 		<g id="group47-196" transform="translate(72.556,-215.139)" v:mID="47" v:groupContext="group" v:layerMember="0">
 			<title>Database, mini 3 - blue</title>
 			<g id="group48-197" transform="translate(-6.82813,0)" v:mID="48" v:groupContext="group" v:layerMember="0">

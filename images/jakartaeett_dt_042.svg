@@ -51,7 +51,7 @@
 		<foreignObject x="222" y="-1" width="200" height="60"><xhtml:p class="st4">Web Server</xhtml:p></foreignObject>
 		<g id="shape49-20" v:mID="49" v:groupContext="shape" transform="translate(222.779,-40.405)">
 			<title>Foglio.49</title>
-			<rect x="0" y="71.3613" width="78.4134" height="20.7874" class="st7"/>
+			<rect x="0" y="71.3613" width="78.4134" height="32" class="st7"/>
 		</g>
 		<foreignObject x="224" y="24" width="75" height="60"><xhtml:p class="st4">Credential</xhtml:p></foreignObject>
 		<g id="shape22-25" v:mID="22" v:groupContext="shape" transform="translate(304.9,44.657) rotate(90)">
@@ -75,7 +75,7 @@
 			<title>Foglio.54</title>
 			<path d="M0 92.15 L36 92.15" class="st6"/>
 		</g>
-		<foreignObject x="222" y="48" width="200" height="60"><xhtml:p class="st4">Session Context</xhtml:p></foreignObject>
+		<foreignObject x="222" y="55" width="200" height="60"><xhtml:p class="st4">Session Context</xhtml:p></foreignObject>
 		<g id="shape56-45" v:mID="56" v:groupContext="shape" transform="translate(307.34,-40.405)">
 			<title>Foglio.56</title>
 			<rect x="0" y="71.3613" width="115.742" height="20.7874" class="st7"/>

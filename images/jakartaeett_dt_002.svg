@@ -252,10 +252,10 @@
 		</g>
 		<g id="shape5-11" v:mID="5" v:groupContext="shape" transform="translate(357.885,-156.626)">
 			<title>Foglio.5</title>
-			<rect x="0" y="180.023" width="51.0236" height="70.8661" class="st4"/>
+			<rect x="0" y="180.023" width="65" height="70.8661" class="st4"/>
 		</g>
 		<foreignObject x="317" y="32" width="33" height="60"><xhtml:p class="st6">Client Tier</xhtml:p></foreignObject>
-		<foreignObject x="360" y="16" width="44" height="60"><xhtml:p class="st6">Client Machine</xhtml:p></foreignObject>
+		<foreignObject x="358" y="16" width="65" height="60"><xhtml:p class="st6">Client Machine</xhtml:p></foreignObject>
 		<g id="shape8-21" v:mID="8" v:groupContext="shape" transform="translate(20.5625,-91.783)">
 			<title>Foglio.8</title>
 			<rect x="0" y="219.708" width="334.488" height="31.1811" class="st3"/>
@@ -266,11 +266,11 @@
 		</g>
 		<g id="shape10-25" v:mID="10" v:groupContext="shape" transform="translate(357.885,-20.5625)">
 			<title>Foglio.10</title>
-			<rect x="0" y="137.503" width="51.0236" height="113.386" class="st4"/>
+			<rect x="0" y="137.503" width="65" height="113.386" class="st4"/>
 		</g>
-		<foreignObject x="359" y="111" width="43" height="60"><xhtml:p class="st6">Jakarta EE Server</xhtml:p></foreignObject>
-		<foreignObject x="317" y="118" width="33" height="60"><xhtml:p class="st6">Web Tier</xhtml:p></foreignObject>
-		<foreignObject x="305" y="184" width="43" height="60"><xhtml:p class="st6">Business Tier</xhtml:p></foreignObject>
+		<foreignObject x="358" y="111" width="65" height="60"><xhtml:p class="st6">Jakarta EE Server</xhtml:p></foreignObject>
+		<foreignObject x="265" y="125" width="90" height="60"><xhtml:p class="st6">Web Tier</xhtml:p></foreignObject>
+		<foreignObject x="265" y="184" width="90" height="60"><xhtml:p class="st6">Business Tier</xhtml:p></foreignObject>
 		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(-6.53102,89.657) rotate(-90) scale(-1,1)">
 			<title>Foglio.14</title>
 			<path d="M9.36 250.89 L9.72 250.89 L28.55 250.89" class="st8"/>

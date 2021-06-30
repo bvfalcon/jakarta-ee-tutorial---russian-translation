@@ -60,8 +60,8 @@
 			<ellipse cx="5.69203" cy="74.9758" rx="5.69203" ry="5.83433" class="st7"/>
 		</g>
 		<foreignObject x="88" y="13" width="9" height="60"><xhtml:p class="st8">2</xhtml:p></foreignObject>
-		<foreignObject x="99" y="-7" width="160" height="60"><xhtml:p class="st6">Dependency Injection, if any</xhtml:p></foreignObject>
-		<foreignObject x="99" y="13" width="160" height="60"><xhtml:p class="st6">PostConstruct callback, if any</xhtml:p></foreignObject>
+		<foreignObject x="99" y="-7" width="210" height="60"><xhtml:p class="st6">Dependency Injection, if any</xhtml:p></foreignObject>
+		<foreignObject x="99" y="13" width="220" height="60"><xhtml:p class="st6">PostConstruct callback, if any</xhtml:p></foreignObject>
 		<g id="shape30-34" v:mID="30" v:groupContext="shape" transform="translate(97.098,-23.3972)">
 			<title>Foglio.30</title>
 			<path d="M0 80.81 L137.48 80.81" class="st3"/>
@@ -74,6 +74,6 @@
 			<title>Foglio.33</title>
 			<path d="M5.67 80.81 L0 80.81 L2.83 71.17 L5.67 80.81 Z" class="st4"/>
 		</g>
-		<foreignObject x="102" y="53" width="160" height="60"><xhtml:p class="st6">PreDestroy callback, if any</xhtml:p></foreignObject>
+		<foreignObject x="50" y="53" width="230" height="60"><xhtml:p class="st6">PreDestroy callback, if any</xhtml:p></foreignObject>
 	</g>
 </svg>
